@@ -3,7 +3,8 @@
  int main ()
  {int i;
     int n;
-    cout<<"changes for github again"<<endl;
+    cout<<"changes for github again in pull request"<<endl;
+
      
     cout<<"the number of terms in array";
     cin>>n;
